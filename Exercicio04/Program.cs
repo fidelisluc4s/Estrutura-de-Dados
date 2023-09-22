@@ -5,30 +5,10 @@ using System.Linq;
 using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
-/*Questão 1) Faça uma função recursiva que receba um número inteiro por parâmetro e retorne true se o número 
-for um número perfeito ou false caso contrário. Um número perfeito é um número natural para o qual a soma de 
-todos os seus divisores naturais é igual ao próprio número. Esta função não pode utilizar comandos de repetição.*/
-
-
-
-class Program{
-    static void Main(string[] args){
-        int check = numeroPerfeito(6,1,0);
-        Console.WriteLine(check);
-        
-    }
-    static int numeroPerfeito(int numero, int i, int somaDivisores){
-        if (i>=numero)
-        {
-            if (somaDivisores==numero){
-                return numero;
-            }else{
-                return -1;
-            }
-        }
-        if(numero%i==0){
-            somaDivisores+=i;
-        }
-        return numeroPerfeito(numero,i+1,somaDivisores);
-    }
-}//
+/*Questão 3: Faça um procedimento que receba o montante reservado para a
+aposentadoria de uma pessoa e a quantia que ela pretende retirar por mês. O
+montante reservado é corrigido a cada mês com a taxa de 0,55%, aplicada logo após
+a retirada. O procedimento deve imprimir o montante (após a retirada e a correção),
+mês a mês. O procedimento também deve imprimir o número de meses em que a
+pessoa conseguirá fazer a sua retirada. Restrição: não utilize comandos de
+repetição.*/
