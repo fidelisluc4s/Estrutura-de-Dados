@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\ADS 2B\\Programação OO\\Estrtura-de-Dados\\Exercicio04\\Exercicio04.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\ADS 2B\\Estrutura de Dados\\Estrutura de dados git\\Exercicio04\\Exercicio04.csproj",
       "projectName": "Exercicio04",
-      "projectPath": "C:\\Users\\Lucas\\Desktop\\ADS 2B\\Programação OO\\Estrtura-de-Dados\\Exercicio04\\Exercicio04.csproj",
+      "projectPath": "C:\\Users\\Lucas\\Desktop\\ADS 2B\\Estrutura de Dados\\Estrutura de dados git\\Exercicio04\\Exercicio04.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas\\Desktop\\ADS 2B\\Programação OO\\Estrtura-de-Dados\\Exercicio04\\obj\\",
+      "outputPath": "C:\\Users\\Lucas\\Desktop\\ADS 2B\\Estrutura de Dados\\Estrutura de dados git\\Exercicio04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
