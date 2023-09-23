@@ -7,10 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Text;
 
-/**Faça um procedimento recursivo que receba por parâmetro um vetor 𝑣𝑒𝑡 de
-números reais e, multiplique por −1 todos os elementos negativos desse vetor.
-Para esse exercício não se pode utilizar as estruturas de repetição (for, while e do
-while).*/
+
 class Program
 {
     static void Main(string[] args)
