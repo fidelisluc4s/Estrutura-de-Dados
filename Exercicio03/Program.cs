@@ -1,34 +1,36 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Net.Http;
-using System.Threading;
-using System.Threading.Tasks;
-/*Questão 1) Faça uma função recursiva que receba um número inteiro por parâmetro e retorne true se o número 
-for um número perfeito ou false caso contrário. Um número perfeito é um número natural para o qual a soma de 
-todos os seus divisores naturais é igual ao próprio número. Esta função não pode utilizar comandos de repetição.*/
+
+/*Questão 1) Faça uma função recursiva que receba um número inteiro por parâmetro
+int numero
+e retorne true se o número for um número perfeito ou false caso contrário.
+bool resultado
+Um número perfeito é um número natural para o qual a soma de todos os seus divisores naturais é igual ao próprio número.*/
 
 
+class Program
+{
+    static void Main(string[] args)
+    {
+        int numero = 6;
+        int somaDivisores = 0;
+        int cont = 1;
+        bool resultado = numeroPerfeito(numero, cont, somaDivisores);
+        Console.WriteLine(resultado);
 
-class Program{
-    static void Main(string[] args){
-        int check = numeroPerfeito(7,1,0);
-        Console.WriteLine(check);
-        
     }
-    static int numeroPerfeito(int numero, int i, int somaDivisores){
-        if (i>=numero)
+    static bool numeroPerfeito(int numero, int cont, int somaDivisores)
+    {
+
+        if (cont >= numero)
         {
-            if (somaDivisores==numero){
-                return numero;
-            }else{
-                return -1;
-            }
+            return somaDivisores == numero;
         }
-        if(numero%i==0){
-            somaDivisores+=i;
+        if (numero % cont == 0)
+        {
+            somaDivisores += cont;
         }
-        return numeroPerfeito(numero,i+1,somaDivisores);
+
+        return numeroPerfeito(numero, ++cont, somaDivisores);
     }
 }
