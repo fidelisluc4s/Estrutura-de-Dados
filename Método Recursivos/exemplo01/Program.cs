@@ -75,7 +75,7 @@ processado */
     }
 }*/
 
-/*. Substitua o comando de atualização da variável de controle do comando
+/**. Substitua o comando de atualização da variável de controle do comando
 while pela chamada recursiva passando por parâmetro o próximo valor dessa
 variável.*/
 
