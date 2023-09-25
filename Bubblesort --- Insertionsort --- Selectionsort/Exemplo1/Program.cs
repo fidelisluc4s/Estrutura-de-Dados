@@ -9,6 +9,11 @@ class Program
 
         BublleSort(vetor);
 
+        foreach (var item in vetor)
+        {
+            Console.Write($"{item} ");
+        }
+
     }
     static void Troca(double[] vetor, int i, int j)
     {
@@ -32,6 +37,7 @@ class Program
                     Troca(vetor, i, i + 1);
                     pos = i;
                     troca = true;
+                    Console.WriteLine(vetor);
                 }
             fim = pos - 1;
         }
