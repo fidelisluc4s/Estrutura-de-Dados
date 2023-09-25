@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\Exemplo2.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\Exemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\Exemplo2.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\Exemplo2.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\Exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\bin\Debug\net7.0\Exemplo2.exe
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\bin\Debug\net7.0\Exemplo2.deps.json
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\bin\Debug\net7.0\Exemplo2.runtimeconfig.json
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\bin\Debug\net7.0\Exemplo2.dll
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\bin\Debug\net7.0\Exemplo2.pdb
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\Exemplo2.dll
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\refint\Exemplo2.dll
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\Exemplo2.pdb
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\Exemplo2.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\ADS 2B\Estrutura de Dados\Estrutura de dados git\Bubblesort --- Insertionsort --- Selectionsort\Exemplo2\obj\Debug\net7.0\ref\Exemplo2.dll
