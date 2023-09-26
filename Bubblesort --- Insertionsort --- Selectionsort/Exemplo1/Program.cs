@@ -11,7 +11,7 @@ class Program
 
         foreach (var item in vetor)
         {
-            Console.Write($"{item} ");
+            Console.Write($"{item}  ");
         }
 
     }
