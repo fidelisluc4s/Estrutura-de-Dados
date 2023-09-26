@@ -6,7 +6,7 @@ using System.Collections.Generic;*/
 parâmetro utilizando o método bolha e retorne o número de trocas realizadas.*/
 
 
-/*class MetodoInsercao
+class MetodoInsercao
 {
     static void Main(string[] args)
     {
@@ -39,4 +39,4 @@ parâmetro utilizando o método bolha e retorne o número de trocas realizadas.*
         }
         return trocas;
     }
-}*/
+}
