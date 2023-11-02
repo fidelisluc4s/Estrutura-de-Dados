@@ -1,0 +1,15 @@
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/pilha e fila.csproj.AssemblyReference.cache
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/pilha e fila.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/pilha e fila.AssemblyInfoInputs.cache
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/pilha e fila.AssemblyInfo.cs
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/pilha e fila.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/LUcas/ED/pilha e fila/bin/Debug/net7.0/pilha e fila
+/home/aluno/Documentos/LUcas/ED/pilha e fila/bin/Debug/net7.0/pilha e fila.deps.json
+/home/aluno/Documentos/LUcas/ED/pilha e fila/bin/Debug/net7.0/pilha e fila.runtimeconfig.json
+/home/aluno/Documentos/LUcas/ED/pilha e fila/bin/Debug/net7.0/pilha e fila.dll
+/home/aluno/Documentos/LUcas/ED/pilha e fila/bin/Debug/net7.0/pilha e fila.pdb
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/pilha e fila.dll
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/refint/pilha e fila.dll
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/pilha e fila.pdb
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/pilha e fila.genruntimeconfig.cache
+/home/aluno/Documentos/LUcas/ED/pilha e fila/obj/Debug/net7.0/ref/pilha e fila.dll
