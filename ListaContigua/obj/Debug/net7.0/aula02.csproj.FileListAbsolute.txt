@@ -1,0 +1,15 @@
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/aula02.csproj.AssemblyReference.cache
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/aula02.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/aula02.AssemblyInfoInputs.cache
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/aula02.AssemblyInfo.cs
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/aula02.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/LUcas/ED/aula02/bin/Debug/net7.0/aula02
+/home/aluno/Documentos/LUcas/ED/aula02/bin/Debug/net7.0/aula02.deps.json
+/home/aluno/Documentos/LUcas/ED/aula02/bin/Debug/net7.0/aula02.runtimeconfig.json
+/home/aluno/Documentos/LUcas/ED/aula02/bin/Debug/net7.0/aula02.dll
+/home/aluno/Documentos/LUcas/ED/aula02/bin/Debug/net7.0/aula02.pdb
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/aula02.dll
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/refint/aula02.dll
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/aula02.pdb
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/aula02.genruntimeconfig.cache
+/home/aluno/Documentos/LUcas/ED/aula02/obj/Debug/net7.0/ref/aula02.dll
