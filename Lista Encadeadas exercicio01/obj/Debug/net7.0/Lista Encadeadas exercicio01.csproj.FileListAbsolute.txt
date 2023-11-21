@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\bin\Debug\net7.0\Lista Encadeadas exercicio01.exe
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\bin\Debug\net7.0\Lista Encadeadas exercicio01.deps.json
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\bin\Debug\net7.0\Lista Encadeadas exercicio01.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\bin\Debug\net7.0\Lista Encadeadas exercicio01.dll
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\bin\Debug\net7.0\Lista Encadeadas exercicio01.pdb
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\obj\Debug\net7.0\Lista Encadeadas exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\obj\Debug\net7.0\Lista Encadeadas exercicio01.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\obj\Debug\net7.0\Lista Encadeadas exercicio01.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\obj\Debug\net7.0\Lista Encadeadas exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\obj\Debug\net7.0\Lista Encadeadas exercicio01.dll
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\obj\Debug\net7.0\refint\Lista Encadeadas exercicio01.dll
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\obj\Debug\net7.0\Lista Encadeadas exercicio01.pdb
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\obj\Debug\net7.0\Lista Encadeadas exercicio01.genruntimeconfig.cache
+C:\Users\Lucas\Documents\GitHub\Estrutura-de-Dados\Lista Encadeadas exercicio01\obj\Debug\net7.0\ref\Lista Encadeadas exercicio01.dll
